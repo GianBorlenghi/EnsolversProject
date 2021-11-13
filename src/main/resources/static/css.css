@@ -1,0 +1,17 @@
+*{
+    font-size: 18px;
+    font-family: Courier;
+    background-color: #666;
+    color:#ddd;
+}
+
+h2{
+    text-align: center;
+}
+
+table {
+    /* Para centrar usamos "auto" en la alineación horizontal */
+margin: 0 auto;
+    /*Lo siguiente es para los bordes*/
+border-collapse: separate;
+}
